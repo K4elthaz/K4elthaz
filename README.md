@@ -12,6 +12,7 @@ Studying IOS Application development, React.js , Java/Kotlin
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I'm willing to learn and gain more knowledge and tips in React.js
 
+#Dev Portfolio https://jda-portfolio.vercel.app/
 ### Skills
 
 
