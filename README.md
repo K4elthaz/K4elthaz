@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeremy Daniel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kael
 =====================================================================================================================================
 
 Full Stack Dev - Android Dev 
@@ -8,9 +8,9 @@ Studying IOS Application development, React.js , Java/Kotlin
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [jalcantarabedtc@gmail.com](mailto:jalcantarabedtc@gmail.com)
-* 🧠  I'm learning IOS Application Development, React.js
+* 🧠  I'm learning IOS Application Development
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I'm willing to learn and gain more knowledge and tips in React.js
+* ⚡  I'm willing to learn and gain more knowledge and tips
 
 #Dev Portfolio https://jda-portfolio.vercel.app/
 ### Skills
